@@ -55,7 +55,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
@@ -125,7 +125,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 4 Axes>"
       ]
@@ -159,7 +159,7 @@
    "outputs": [
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
@@ -208,7 +208,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
@@ -308,7 +308,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
@@ -320,7 +320,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
@@ -332,7 +332,7 @@
     },
     {
      "data": {
-      "image/png":  ""
+      "image/png":  "",
       "text/plain": [
        "<Figure size 432x288 with 1 Axes>"
       ]
